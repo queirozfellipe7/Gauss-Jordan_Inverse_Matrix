@@ -1,2 +1,3 @@
-[ReadMe.txt](https://github.com/queirozfellipe7/Gauss-Jordan_Inverse_Matrix/files/7011600/ReadMe.txt)
-# Gauss-Jordan_Inverse_Matrix
+O código executa o método da matriz inversa de Gauss-Jordan
+
+The code runs the Gauss-Jordan inverse matrix method
